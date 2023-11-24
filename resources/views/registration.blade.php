@@ -5,4 +5,4 @@ Make conflict dev
 Make Conflict developer_one
 Developer_one
 ------------------------
-24th Novemver 2023.
+24th November 2023.
